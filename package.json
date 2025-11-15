@@ -2,7 +2,7 @@
   "name": "copy-of-harada-method-goal-achievement-system",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://heyeric.me",
+  "homepage": "http://heyeric.me",
   "type": "module",
   "scripts": {
     "dev": "vite",
