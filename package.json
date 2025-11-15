@@ -2,7 +2,7 @@
   "name": "copy-of-harada-method-goal-achievement-system",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ericrudawski.github.io/harada-new",
+  "homepage": "https://heyeric.me",
   "type": "module",
   "scripts": {
     "dev": "vite",
