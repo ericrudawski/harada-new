@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     // 👇 Required for GitHub Pages (update this!)
-    base: '/harada-new/',
+    base: '/',
 
     server: {
       port: 3000,
